@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This makes sure the body takes the full viewport height */
+    margin: 0; /* This removes any default margin */
+    padding: 0; /* This removes any default padding */
+}
+
+#main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
